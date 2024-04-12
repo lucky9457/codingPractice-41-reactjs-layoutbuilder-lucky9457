@@ -1,0 +1,28 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.controllerContainer {
+  background-color: #475569;
+  min-height: 10vh;
+  background-size: cover;
+  padding: 10px;
+  padding-left: 60px;
+}
+.layoutHeader {
+  font-family: Roboto;
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: white;
+}
+.input {
+}
+.contentLabel {
+  color: white;
+  margin-left: 10px;
+}
+
+.divInputCont {
+  margin-bottom: 5px;
+}

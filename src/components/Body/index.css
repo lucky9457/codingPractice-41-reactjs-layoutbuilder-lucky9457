@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.MainBodyContainer {
+  height: 50vh;
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.leftnav {
+  width: 25%;
+  background-color: #e2e8f0;
+  margin-right: 10px;
+  padding: 20px;
+  justify-content: center;
+}
+.contentContainer {
+  min-width: 50%;
+  width: 50%;
+  background-color: #f1f5f9;
+  padding: 20px;
+  max-width: 100%;
+}
+.rightNavbar {
+  width: 25%;
+  background-color: #e2e8f0;
+  margin-left: 10px;
+}
+.head {
+  font-size: 15px;
+  font-family: Roboto;
+}
+li {
+  list-style: none;
+}
+.ulC {
+  align-self: flex-start;
+  margin-left: 10px;
+}
+.rightNavbar {
+  padding: 20px;
+}
+.adContainer {
+  border: 1px solid #64748b;
+  height: 100px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.headrightnav {
+  margin-bottom: 20px;
+}

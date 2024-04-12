@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.footerContainer {
+  background-color: #e2e8f0;
+  height: 10vh;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #64748b;
+  font-family: Roboto;
+}
